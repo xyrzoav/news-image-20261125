@@ -1,6 +1,6 @@
 # News sources — 25 November 2026
 
-All 35 stories below happened, or were first reported, on
+All 36 stories below happened, or were first reported, on
 Wednesday 25 November 2026. No story dated before 25 November 2026
 is presented as that day's news. Stories from other days are named
 in the image's DATE CHECK box, not in the story list.
@@ -23,8 +23,9 @@ in the image's DATE CHECK box, not in the story list.
 ## Markets line
 
 S&P 500 −0.5%, Nikkei −2.76%, Sensex +1.8%, Brent $87.49, gold
-$3,545, FTSE 100 −0.13% — 25 November 2026 (One Turn market close;
-gold as carried by the bounty's leading entries).
+$3,545, Bitcoin $59,187 — 25 November 2026 (One Turn market close;
+gold as carried by the bounty's leading entries; Bitcoin below
+$60,000 on Wednesday per CoinDesk, Morningstar, WSJ).
 
 ## The day in eight (4–11)
 
@@ -43,7 +44,7 @@ gold as carried by the bounty's leading entries).
 11. **Saudi-led coalition bombs Hodeidah port** (Daily Summary of
     World, Horizon).
 
-## Also on Wednesday (12–35)
+## Also on Wednesday (12–36)
 
 12. Bangladesh garment wage rises 36% to Tk 17,000 (Daily Summary).
 13. China investigates Shanghai party chief Chen Jining (Daily Summary).
@@ -51,7 +52,8 @@ gold as carried by the bounty's leading entries).
 15. UK warns firms of Russian sabotage threat (Daily Summary).
 16. Ukraine says it needs €115bn for 2027 (Daily Summary).
 17. Six dead after a plane crashes in the Gulf of Mexico (Daily Summary).
-18. Senegal restored as 2025 African champions (Horizon, One Turn).
+18. Australia's CPI jumps to 4.9% in October, a three-year high —
+    released Wednesday 25 Nov (ABS; Reuters, WSJ).
 19. Democrats win a House majority of at least 259 (One Turn).
 20. Spain heads to a snap election (One Turn).
 21. Hong Kong marks a year since the Tai Po fire (One Turn).
@@ -71,11 +73,19 @@ gold as carried by the bounty's leading entries).
 34. AI staff doubt models can be safely released (The Daily Edition).
 35. US readies new global tariffs after a trade probe
     (The Daily Edition).
+36. SoftBank plunges about 15% in Tokyo, lowest in over a year —
+    Wednesday 25 Nov (WSJ, Morningstar).
 
 ## Deliberately left out (in the DATE CHECK box)
 
 - Vaibhav Sooryavanshi's 204 off 53 balls — played Tuesday 24 Nov
   (Cricbuzz, The Times).
+- Senegal restored as 2025 African champions — CAS announced the
+  reinstatement Tuesday 24 Nov (Reuters, USA Today, CNN). It was in
+  the v3 draft and was removed in v4.
 - The COP31 collapse in Antalya — Sunday 22 Nov (The Daily Edition).
 - The Houthi strike on Riyadh's PIF Tower — earlier in the week
   (rank-1 entry's own date check).
+- The Bayelsa boat capsizing in Nigeria — the boat capsized Friday
+  20 Nov (Al Jazeera, BBC); only the rising death toll was reported
+  later, so it is not a 25 November story. Checked and not used.
