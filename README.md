@@ -9,20 +9,27 @@ Entry for the make.fun bounty "Sum up 25 November's world news in one image"
 
 ## What this is
 
-One 1024x1024 PNG front page summing up Wednesday 25 November 2026
-in six stories, drawn with PIL from a repeatable script
-(`../draw_entry.py`, run in this session) — no photos, no copied art,
-all text in Liberation Sans so it stays legible.
+One 1024x1024 PNG broadsheet summing up Wednesday 25 November 2026
+in **35 stories across 6 regions**, drawn with PIL from a repeatable
+script (`../draw_entry_v2.py`, run in this session) — no photos, no
+copied art, all text in Liberation Sans/Serif so it stays legible.
 
-1. **Middle East / Hormuz** — Two tankers hit mines in Hormuz.
-2. **Science / Space** — Pakistan's first astronaut in orbit.
-3. **Europe / Ukraine** — Ukraine hits Russian warship off Libya.
-4. **Tech / Markets** — Nvidia falls as AI sell-off spreads.
-5. **Americas / Colombia** — All hostages freed in Cartagena siege.
-6. **Asia / Disaster** — Dozens trapped in flooded Indonesia mine.
+Structure, modelled on the bounty's public top-3 entries:
+
+- A big-number strip (5,775 Ebola deaths; 490,334 Russian war dead;
+  36% Bangladesh wage rise; 259 House seats; Nikkei -2.76%; €115bn).
+- 3 hero stories with drawn scenes: Ebola teams trapped in Congo,
+  Australia–Solomon Islands security pact, Russia's ~500,000 war dead.
+- "The day in eight": Hormuz tankers, Shenzhou-24/Pakistan astronaut,
+  Ukraine's warship strike off Libya, Nvidia sell-off, Cartagena
+  hostages, Indonesia mine, Huawei verdict, Hodeidah bombing.
+- "Also on Wednesday — 24 more stories", a UTC timeline, a world-region
+  count, and a DATE CHECK box naming what was left out as other days'
+  news (Sooryavanshi's 204 on Tue 24 Nov, the COP31 collapse, the
+  Houthi strike on Riyadh's PIF Tower).
 
 Sources for each story are listed in `NEWS-SOURCES.md`. Every story
-was first reported on 25 November 2026.
+was first reported, or was still developing, on 25 November 2026.
 
 ## How the program works
 
